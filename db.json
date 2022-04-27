@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "name": "Sea-Point",
+      "budget": "3000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 135,
+      "services": [
+        {
+          "name": "sea-solutions-api",
+          "cost": "123",
+          "description": "API de comunicação do Sea Point",
+          "id": "8bb2d67d-ecbd-4ca3-99eb-7e2b0a51cf3b"
+        },
+        {
+          "name": "sea-solutions-api",
+          "cost": "12",
+          "description": "API de comunicação do Sea Point",
+          "id": "8f25557c-2da4-4c31-bc99-06b8bbe286ec"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
