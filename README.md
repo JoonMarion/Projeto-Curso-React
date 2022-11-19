@@ -1,6 +1,6 @@
 # Costs
 
-## Projeto feito em React.js
+## Projeto feito em ReactJS
 
 - Acessível em:
 
